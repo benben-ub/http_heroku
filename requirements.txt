@@ -1,3 +1,5 @@
 Flask
 gunicorn
 line-bot-sdk==1.14.0
+requests
+qrcode
